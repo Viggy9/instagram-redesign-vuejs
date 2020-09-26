@@ -1,5 +1,7 @@
 # insta-clone
 
+Instagram redesign for Web. Deployed with Firebase Hosting. https://projects-7bc90.web.app/
+
 ## Build Setup
 
 ```bash
